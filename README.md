@@ -17,5 +17,6 @@ Para descarregar
 ## Referências úteis
 
 > [Manual de Referência da API do xChat](http://xchat.org/docs/plugin20.html)
+
 > [Manuel de Referência do *Beautiful Soup*](http://www.crummy.com/software/BeautifulSoup/bs4/doc/)
     
