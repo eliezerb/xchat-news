@@ -10,6 +10,10 @@ from sys import argv
 from BeautifulSoup import BeautifulStoneSoup
 from random import randint
 
+# Definindo a codificação padrão como UTF-8
+reload(sys)
+sys.setdefaultencoding("utf-8")
+
 # Esta linha é utilizada para receber um parametro no terminal indicando de qual site voce deseja visualizar as notícias
 # script, source = argv
 
