@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*- 
+
 __module_name__ = "eNews - Plugin"
 __module_version__ = "0.1"
 __module_description__ = "Get random news from a RSS feed website"
